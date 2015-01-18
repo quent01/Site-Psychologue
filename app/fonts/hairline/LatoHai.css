@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'LatoHai';
+    src: url('fonts/LatoHai.eot');
+    src: url('fonts/LatoHai.eot') format('embedded-opentype'),
+         url('fonts/LatoHai.woff2') format('woff2'),
+         url('fonts/LatoHai.woff') format('woff'),
+         url('fonts/LatoHai.ttf') format('truetype'),
+         url('fonts/LatoHai.svg#LatoHai') format('svg');
+}

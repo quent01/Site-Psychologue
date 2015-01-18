@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'LatoBol';
+    src: url('fonts/LatoBol.eot');
+    src: url('fonts/LatoBol.eot') format('embedded-opentype'),
+         url('fonts/LatoBol.woff2') format('woff2'),
+         url('fonts/LatoBol.woff') format('woff'),
+         url('fonts/LatoBol.ttf') format('truetype'),
+         url('fonts/LatoBol.svg#LatoBol') format('svg');
+}

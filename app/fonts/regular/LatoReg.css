@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'LatoReg';
+    src: url('fonts/LatoReg.eot');
+    src: url('fonts/LatoReg.eot') format('embedded-opentype'),
+         url('fonts/LatoReg.woff2') format('woff2'),
+         url('fonts/LatoReg.woff') format('woff'),
+         url('fonts/LatoReg.ttf') format('truetype'),
+         url('fonts/LatoReg.svg#LatoReg') format('svg');
+}

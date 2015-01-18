@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'LatoLigIta';
+    src: url('fonts/LatoLigIta.eot');
+    src: url('fonts/LatoLigIta.eot') format('embedded-opentype'),
+         url('fonts/LatoLigIta.woff2') format('woff2'),
+         url('fonts/LatoLigIta.woff') format('woff'),
+         url('fonts/LatoLigIta.ttf') format('truetype'),
+         url('fonts/LatoLigIta.svg#LatoLigIta') format('svg');
+}

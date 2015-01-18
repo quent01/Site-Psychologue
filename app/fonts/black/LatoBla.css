@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'LatoBla';
+    src: url('fonts/LatoBla.eot');
+    src: url('fonts/LatoBla.eot') format('embedded-opentype'),
+         url('fonts/LatoBla.woff2') format('woff2'),
+         url('fonts/LatoBla.woff') format('woff'),
+         url('fonts/LatoBla.ttf') format('truetype'),
+         url('fonts/LatoBla.svg#LatoBla') format('svg');
+}

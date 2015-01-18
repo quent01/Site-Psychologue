@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'LatoLig';
+    src: url('fonts/LatoLig.eot');
+    src: url('fonts/LatoLig.eot') format('embedded-opentype'),
+         url('fonts/LatoLig.woff2') format('woff2'),
+         url('fonts/LatoLig.woff') format('woff'),
+         url('fonts/LatoLig.ttf') format('truetype'),
+         url('fonts/LatoLig.svg#LatoLig') format('svg');
+}
